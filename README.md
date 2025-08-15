@@ -9,7 +9,7 @@
  <img src="https://komarev.com/ghpvc/?username=Anhad-01&label=Profile%20views&color=0e75b6&style=flat" alt="Anhad-01" /> 
 </p>
 
-- Final-year **B.Tech student** at **Cluster Innovation Centre**, University of Delhi specializing in **Information Technology and Mathematical Innovations**.  
+- Final-year **B.Tech student** at **Cluster Innovation Centre**, University of Delhi, specializing in **Information Technology and Mathematical Innovations**.  
 - Passionate about **Artificial Intelligence, Machine Learning, Computer Vision, and NLP**.  
 - Experienced in **deep learning pipelines, semantic search, image segmentation, IoT**, and **Agentic AI systems**.  
 - Always excited to collaborate on projects that **apply AI to real-world challenges** and push the boundaries of research.  
