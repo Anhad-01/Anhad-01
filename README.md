@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anhad Mehrotra</h1>
+<h1 align="center">Hi, I'm Anhad Mehrotra</h1>
 <h3 align="center">AI/ML Enthusiast | Researcher | Problem Solver</h3>
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
