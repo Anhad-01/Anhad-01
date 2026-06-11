@@ -29,7 +29,7 @@
     <td><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/></a></td>
     <td><a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" height="40"/></a></td>
     <td><a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" height="40"/></a></td>
-    <td><a href="https://n8n.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/n8n/n8n-icon.svg" width="40" height="40"/></a></td>
+    <td><a href="https://n8n.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="40" height="40"/></a></td>
   </tr>
 
   <tr>
