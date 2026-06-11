@@ -29,7 +29,7 @@
     <td><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/></a></td>
     <td><a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" height="40"/></a></td>
     <td><a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" height="40"/></a></td>
-    <td><a href="https://www.crewai.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" width="40" height="40"/></a></td>
+    <td><a href="https://www.crewai.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/joaomdmoura/crewai/main/docs/crewai-logo.png" width="40" height="40"/></a></td>
   </tr>
 
   <tr>
@@ -48,7 +48,7 @@
 
   <tr>
     <td><a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/></a></td>
-    <td><a href="https://www.comsol.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Comsol_logo.svg/100px-Comsol_logo.svg.png" width="40" height="40"/></a></td>
+    <td><a href="https://www.comsol.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Anhad-01/Anhad-01/main/comsol-icon.png" width="40" height="40"/></a></td>
     <td><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/></a></td>
   </tr>
 </table>
