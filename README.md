@@ -54,6 +54,7 @@
 </table>
 
 ---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anhad-01&show_icons=true&locale=en&layout=compact" alt="Anhad-01" /></p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anhad-01&show_icons=true&locale=en&layout=compact" alt="Anhad-01" /></p> -->
 
