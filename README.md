@@ -10,9 +10,9 @@
 </p>
 
 - **B.Tech graduate** from **Cluster Innovation Centre**, University of Delhi, specializing in **Information Technology and Mathematical Innovations**.  
-- Passionate about **Artificial Intelligence, Machine Learning, Computer Vision, and NLP**.  
-- Experienced in **Agentic AI systems, deep learning pipelines, image segmentation, IoT**, and **machine learning**.  
-- Always excited to collaborate on projects that **apply AI to real-world challenges** and push the boundaries of research.  
+- Experienced in building **Agentic AI systems, LLM-powered applications, RAG pipelines, semantic search, and machine learning solutions**.
+- Interested in **AI Engineering, Generative AI, Multi-Agent Systems, Deep Learning, and applied AI research**.
+- Keen to develop **scalable, reliable AI solutions that solve real-world problems**, from intelligent automation to predictive modeling.
 - Reach me at **anhad01mehrotra@gmail.com**  
 
 <h3 align="left">Languages and Tools:</h3>
